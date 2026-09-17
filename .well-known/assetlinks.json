@@ -3,6 +3,7 @@
   "target": { "namespace": "android_app", "package_name": "io.github.skram_games.twa",
                "sha256_cert_fingerprints": [
                  "FF:15:E7:60:09:D8:BF:96:1E:54:E1:05:CB:52:F3:7E:27:15:0B:B9:8B:BA:6C:9F:94:D2:83:AB:0D:FE:0A:89",
-                 "32:2D:E1:AC:57:6C:AC:01:D2:44:E0:F3:BB:5A:28:9E:56:1F:99:73:58:38:79:A5:06:51:1D:ED:AB:C6:A9:5E"
+                 "32:2D:E1:AC:57:6C:AC:01:D2:44:E0:F3:BB:5A:28:9E:56:1F:99:73:58:38:79:A5:06:51:1D:ED:AB:C6:A9:5E",
+                 "CC:5D:C1:8B:86:32:5F:FB:0C:2A:AF:EC:E3:C7:EC:6D:DB:E3:DE:08:61:7B:85:42:AC:E1:07:D2:71:7B:31:EE"
                ] }
 }]
